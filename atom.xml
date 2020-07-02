@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>这里好黑,快放我出去</title>
+  
+  <subtitle>sub</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yukiloh.github.io/"/>
+  <updated>2020-07-02T18:30:21.708Z</updated>
+  <id>https://yukiloh.github.io/</id>
+  
+  <author>
+    <name>Ash</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>e站GP交易指南</title>
+    <link href="https://yukiloh.github.io/2020/07/03/e%E7%AB%99GP%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/"/>
+    <id>https://yukiloh.github.io/2020/07/03/e%E7%AB%99GP%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/</id>
+    <published>2020-07-02T17:42:46.000Z</published>
+    <updated>2020-07-02T18:30:21.708Z</updated>
+    
+    <content type="html"><![CDATA[<p>因为本人比较穷,平时会在咸鱼上出售点GP换取点电费…价格很良心了!  </p><a id="more"></a><h2 id="关于GP一些必须知道的"><a href="#关于GP一些必须知道的" class="headerlink" title="关于GP一些必须知道的"></a>关于GP一些必须知道的</h2><p>e站有3种代币<br><code>GP</code>,<code>Credit</code>,<code>Hath</code><br><code>GP</code>用于主站购买画册的下载流量,或者解除观看时的流量限制<br><code>Credit</code>是e站内置的页游<code>HentaiVerse</code>中的游戏代币<br><code>Hath</code>可以买一些权限,比如页面无广告这种(非本次主题,略过)<br>其中只有<code>Credit</code>是可以赠与的(通过邮件发送),在交易市场可以兑换为<code>GP</code>或者<code>Hath</code><br>因此私下交易<code>GP</code>一般需要通过发送<code>Credit</code>来实现</p><hr><h2 id="查看昵称的方法"><a href="#查看昵称的方法" class="headerlink" title="查看昵称的方法"></a>查看昵称的方法</h2><p>发送<code>GP</code>(实际上是<code>Credit</code>)需要获知目标账号的<strong>昵称</strong>,他不同于登陆的账号名<br>首先在e站的主页<a href="https://e-hentai.org/home.php" target="_blank" rel="noopener">https://e-hentai.org/home.php</a>进入<a href="https://forums.e-hentai.org/" target="_blank" rel="noopener">Forums(论坛)</a><br><img src="/2020/07/03/e%E7%AB%99GP%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/QQ%E6%88%AA%E5%9B%BE20200703014632.png" alt="img">  </p><p>然后点击你的用户名(登录名)可以看到你账户所对应的昵称了<br>我选了一个uid是100的幸运儿作为例子<br>安全起见我的登录名进行了打码<br><img src="/2020/07/03/e%E7%AB%99GP%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/QQ%E6%88%AA%E5%9B%BE20200703015250.png" alt="img">  </p><hr><h2 id="查看邮件的方式"><a href="#查看邮件的方式" class="headerlink" title="查看邮件的方式"></a>查看邮件的方式</h2><p>发送/接收<code>Credit</code>需要借助e站的页游<code>HentaiVerse</code>中的<code>MoogleMail</code>来进行<br>(应该是恶搞GoogleMail)<br>依然是从主页<a href="https://e-hentai.org/home.php" target="_blank" rel="noopener">https://e-hentai.org/home.php</a>进入<a href="https://hentaiverse.org/" target="_blank" rel="noopener">HentaiVerse</a><br>然后在<code>BAZAAR</code>中选择<code>MoogleMail</code>即可进入邮件系统<br><img src="/2020/07/03/e%E7%AB%99GP%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/QQ%E6%88%AA%E5%9B%BE20200703015749.png" alt="img">  </p><p>收到携带<code>Credit</code>的邮件后即可在<a href="https://e-hentai.org/exchange.php?t=gp" target="_blank" rel="noopener">GP Exchange(GP交易市场)</a>兑换成<code>GP</code>了</p><hr><h2 id="兑换GP"><a href="#兑换GP" class="headerlink" title="兑换GP"></a>兑换GP</h2><p>获取到Credit后还需要在<a href="https://e-hentai.org/exchange.php?t=gp" target="_blank" rel="noopener">GP交易市场</a>中兑换成GP<br><img src="/2020/07/03/e%E7%AB%99GP%E4%BA%A4%E6%98%93%E6%8C%87%E5%8D%97/QQ%E6%88%AA%E5%9B%BE20200703021444.png" alt="img"><br>主要关心左侧的<code>Buy GP</code>即可<br><code>Count</code>中输入需要换取的GP数量(以千为单位),和kGP的单价,然后点击<code>Buy GP!</code>即可进行购买<br>你可以在下方的<code>公布板 Spread</code>中看到当前GP的实时价格<br>如果不是很急可以挂上一个略低的出价,等待别人售出该价格的GP(类似于Steam的卡牌交易系统)  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因为本人比较穷,平时会在咸鱼上出售点GP换取点电费…价格很良心了!  &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="ehentai" scheme="https://yukiloh.github.io/tags/ehentai/"/>
+    
+      <category term="GP" scheme="https://yukiloh.github.io/tags/GP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于hexo的个人博客</title>
+    <link href="https://yukiloh.github.io/2020/06/23/hexo%E7%9A%84%E9%83%A8%E7%BD%B2/"/>
+    <id>https://yukiloh.github.io/2020/06/23/hexo%E7%9A%84%E9%83%A8%E7%BD%B2/</id>
+    <published>2020-06-23T05:47:40.000Z</published>
+    <updated>2020-06-23T11:31:25.601Z</updated>
+    
+    <content type="html"><![CDATA[<p>闲的蛋疼的产物,第一次构建hexo,主要为了方便以后查看和使用</p><a id="more"></a><h2 id="生成新的post"><a href="#生成新的post" class="headerlink" title="生成新的post"></a>生成新的post</h2><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo <span class="keyword">new</span> [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><p>其中layout可选择<code>post</code>,<code>page</code>,<code>draft</code><br>其他可以参考: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">https://hexo.io/docs/writing.html</a>  </p><h2 id="主页的简介"><a href="#主页的简介" class="headerlink" title="主页的简介"></a>主页的简介</h2><p>通过插入<code>&lt;!-- more --&gt;</code><br>可以让more标签位置之前的内容,显示文章在主页的简介中  </p><h2 id="每次部署时"><a href="#每次部署时" class="headerlink" title="每次部署时"></a>每次部署时</h2><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo server</span><br><span class="line"></span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><ul><li>clean: 清空原来的缓存(public文件夹和database)</li><li>g: 生成新的静态资源</li><li>server: 部署在本地服务器,查看效果  </li><li>deploy: 如果没问题了可以再部署在github上</li></ul><p>可以三条语句直接复制,黏贴在git bash中连着执行<br>我自己写了2个bat在项目根目录下方便本地测试和部署<br>有些命令需要先安装插件,最后的参考中有完整的安装方法,因此这里略过  </p><h2 id="关于插入图片"><a href="#关于插入图片" class="headerlink" title="关于插入图片"></a>关于插入图片</h2><p>需要安装<code>hexo-asset-image</code>插件<br>推荐使用0.0.5版本的,因为这样可以直接使用<code>文章的名称/xxx.jpg</code>来插入图片  </p><p>另外,这个theme好像不可以指定图片大小,或者点击放大<br>太小的图不宜使用<br>太大的图如果看不清需要另外右击查看</p><h3 id="使用img标签插入"><a href="#使用img标签插入" class="headerlink" title="使用img标签插入"></a>使用img标签插入</h3><p><code>&lt;img src=&quot;hexo的部署/5ee7D.gif&quot; width=&quot;50%&quot; height=&quot;50%&quot;&gt;</code><br><img src="/2020/06/23/hexo%E7%9A%84%E9%83%A8%E7%BD%B2/5ee7D.gif" width="50%" height="50%"></p><h3 id="使用markdown的格式"><a href="#使用markdown的格式" class="headerlink" title="使用markdown的格式"></a>使用markdown的格式</h3><p><code>![img](hexo的部署/cat.jpg)</code><br><img src="/2020/06/23/hexo%E7%9A%84%E9%83%A8%E7%BD%B2/cat.jpg" alt="img"></p><h2 id="样式的一些小修改"><a href="#样式的一些小修改" class="headerlink" title="样式的一些小修改"></a>样式的一些小修改</h2><h3 id="paginator-pug"><a href="#paginator-pug" class="headerlink" title="paginator.pug"></a>paginator.pug</h3><p>这个主题的上一篇/下一篇的button做的太小,我修改了2个button的文字</p><h3 id="main-css"><a href="#main-css" class="headerlink" title="main.css"></a>main.css</h3><p>包含大部分页面的样式</p><ul><li>我不太满意这个主题的行间距,感觉太挤了</li><li><code>&lt;code&gt;</code>标签像是没有着色一样,进行了修改</li><li>移动端下,链接长代码会因为保持同行而割裂中文,使用了<code>word-break:break-all</code></li></ul><h2 id="测试一些语言"><a href="#测试一些语言" class="headerlink" title="测试一些语言"></a>测试一些语言</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//java</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span></span>&#123;</span><br><span class="line">  System.out.println(<span class="string">"hello world"</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><figure class="highlight golang"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//golang</span></span><br><span class="line">fmt.<span class="built_in">println</span>(<span class="string">"hello world"</span>)</span><br></pre></td></tr></table></figure><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p>如何部署: <a href="https://www.cnblogs.com/visugar/p/6821777.html" target="_blank" rel="noopener">https://www.cnblogs.com/visugar/p/6821777.html</a><br>theme: <a href="https://github.com/lyndonoc/hexo-theme-pandollo" target="_blank" rel="noopener">https://github.com/lyndonoc/hexo-theme-pandollo</a><br>layout.pug错误的解决办法: <a href="https://blog.csdn.net/weixin_44318830/article/details/104884936" target="_blank" rel="noopener">https://blog.csdn.net/weixin_44318830/article/details/104884936</a><br>主页生成摘要: <a href="https://blog.csdn.net/zhanghanlun/article/details/104312501" target="_blank" rel="noopener">https://blog.csdn.net/zhanghanlun/article/details/104312501</a><br>插入图片: <a href="https://blog.csdn.net/u010996565/article/details/89196612" target="_blank" rel="noopener">https://blog.csdn.net/u010996565/article/details/89196612</a><br>图片不显示的问题: <a href="https://blog.csdn.net/Strong997/article/details/97767929" target="_blank" rel="noopener">https://blog.csdn.net/Strong997/article/details/97767929</a><br>CSS中文换行的问题: <a href="https://www.cnblogs.com/zhang-wenbin/p/9717535.html" target="_blank" rel="noopener">https://www.cnblogs.com/zhang-wenbin/p/9717535.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;闲的蛋疼的产物,第一次构建hexo,主要为了方便以后查看和使用&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="https://yukiloh.github.io/tags/hexo/"/>
+    
+      <category term="blog" scheme="https://yukiloh.github.io/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
